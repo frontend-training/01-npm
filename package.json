@@ -1,12 +1,12 @@
 {
   "name": "cowgreet",
   "version": "1.0.0",
-  "description": "Just a cowsay",
+  "description": "A legen dairy interface for communicating with cattle",
   "main": "index.js",
   "scripts": {
     "moo": "node index.js"
   },
-  "author": "",
+  "author": "Bobby Nae",
   "license": "ISC",
   "dependencies": {}
 }
