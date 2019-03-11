@@ -1,0 +1,12 @@
+{
+  "name": "cowgreet",
+  "version": "1.0.0",
+  "description": "Just a cowsay",
+  "main": "index.js",
+  "scripts": {
+    "moo": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
